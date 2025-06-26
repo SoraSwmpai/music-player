@@ -147,7 +147,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 📞 Contact
 
 Your Name - [@pvm_harsha](https://x.com/pvm_harsha)  
-Project Link: [TypeSpeed Project](https://github.com/pvm-harshavardhan/music-player)
+Project Link: [Music Player Web App Project](https://github.com/pvm-harshavardhan/music-player)
 
 ---
 
