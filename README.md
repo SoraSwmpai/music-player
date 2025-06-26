@@ -2,6 +2,8 @@
 
 A modern, responsive music player built with HTML, CSS, JavaScript, and Bootstrap. Features a beautiful glassmorphism UI with smooth animations and full audio control functionality.
 
+> 🌐 **Live Demo:** [View the Music Player App](https://pvm-harshavardhan.github.io/music-player/)
+
 ![App Screenshot](/project_screenshot.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
