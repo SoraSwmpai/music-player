@@ -142,6 +142,28 @@ music-player/
 2. Touch controls work on mobile devices
 3. Audio autoplay may be restricted on mobile (user interaction required)
 
+---
+
+## 🖼️ Customization & Screenshots
+
+- Add your own screenshots or GIFs to highlight features and UI.
+- Update colors and styles in `styles.css` to match your preferences.
+
+---
+
+## 🌐 Deployment
+
+Deploy your Expense Tracker easily using **GitHub Pages**, **Netlify**, or **Vercel** for free.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+Feel free to open issues or submit pull requests to improve the app.
+
+---
+
 ## 📄 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
