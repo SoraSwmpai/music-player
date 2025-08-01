@@ -98,18 +98,39 @@ class MusicPlayer {
         // Sample playlist - you'll need to add your own audio files
         this.songs = [
             {
-                title: "Sapphire",
-                artist: "Ed Sheeran",
-                src: "audio/Sapphire.mp3",
+                title: "K.",
+                artist: "Cigarettes After Sex",
+                src: "audio/Cigarettes After Sex - K..mp3",
                 duration: "0:00",
                 albumArt: "images/sapphire.jpg"
             },
             {
-                title: "Safari", 
-                artist: "Sarena",
-                src: "audio/Safari.mp3",
+                title: "Cry",
+                artist: "Cigarettes After Sex",
+                src: "audio/Cigarettes After Sex - Cry.mp3",
                 duration: "0:00",
-                albumArt: "images/safari.jpg"
+                albumArt: "images/sapphire.jpg"
+            },
+            {
+                title: "Holding you, Holding me",
+                artist: "Cigarettes After Sex",
+                src: "audio/Cigarettes After Sex - Holding you, Holding me.mp3",
+                duration: "0:00",
+                albumArt: "images/sapphire.jpg"
+            },
+            {
+                title: "Touch",
+                artist: "Cigarettes After Sex",
+                src: "audio/Cigarettes After Sex - Touch.mp3",
+                duration: "0:00",
+                albumArt: "images/sapphire.jpg"
+            },
+            {
+                title: "Overdose",
+                artist: "Ado",
+                src: "audio/Ado - Overdose.mp3",
+                duration: "0:00",
+                albumArt: "images/sapphire.jpg"
             },
             {
                 title: "Alone Pt. II",
